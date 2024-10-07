@@ -1,0 +1,1 @@
+Conjunto de ejercicios para practicar Numpy, del Bootcamp Alto Rendimiento Data Science Hack(io). Modulo 2, lección 1.
